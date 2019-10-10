@@ -1,0 +1,14 @@
+starting to write coordinates
+time arranging Coordinates : 23.5794
+starting to constructing hamiltonian 1352
+time Hamiltonian : 0.076792
+starting to run KPM
+time KPM : 7.24125
+starting to run SP2
+sp2count is 0, and trace is 86101.642646 
+sp2count is 1, and trace is 120728.539526 
+sp2count is 2, and trace is 140246.128823 
+sp2count is 3, and trace is 143893.434404 
+sp2count is 4, and trace is 143988.150016 
+time SP2 : 1518.43
+Application 77670583 resources: utime ~495009s, stime ~1286s, Rss ~28432, inblocks ~646847, outblocks ~1700439

@@ -1,0 +1,49 @@
+starting to write coordinates
+ M  L  N  nRAndoms8  8   64  500
+time arranging Coordinates : 1.87
+starting to constructing hamiltonian 288
+time Hamiltonian : 0.0296719
+time KPM : 297.017
+sp2count is 0, and trace is 97101.292412 
+time SP2 : 110.362
+sp2count is 0, and trace is 100171.673879 
+scfiter : 0 , the value of the scfDelta is 2.288368 
+sp2count is 0, and trace is 96815.426883 
+scfiter : 1 , the value of the scfDelta is 0.461716 
+sp2count is 0, and trace is 97059.152362 
+scfiter : 2 , the value of the scfDelta is 0.273168 
+sp2count is 0, and trace is 97207.747455 
+scfiter : 3 , the value of the scfDelta is 0.302836 
+sp2count is 0, and trace is 96596.454588 
+scfiter : 4 , the value of the scfDelta is 0.258176 
+sp2count is 0, and trace is 97645.265443 
+scfiter : 5 , the value of the scfDelta is 0.292143 
+sp2count is 0, and trace is 96314.175480 
+scfiter : 6 , the value of the scfDelta is 0.271220 
+sp2count is 0, and trace is 97830.444581 
+scfiter : 7 , the value of the scfDelta is 0.256154 
+sp2count is 0, and trace is 96400.824757 
+scfiter : 8 , the value of the scfDelta is 0.277690 
+sp2count is 0, and trace is 98399.779080 
+scfiter : 9 , the value of the scfDelta is 0.295698 
+sp2count is 0, and trace is 97731.081265 
+scfiter : 10 , the value of the scfDelta is 0.268430 
+sp2count is 0, and trace is 96928.722700 
+scfiter : 11 , the value of the scfDelta is 0.298735 
+sp2count is 0, and trace is 98073.365041 
+scfiter : 12 , the value of the scfDelta is 0.275244 
+sp2count is 0, and trace is 96872.079189 
+scfiter : 13 , the value of the scfDelta is 0.261510 
+sp2count is 0, and trace is 97008.290111 
+scfiter : 14 , the value of the scfDelta is 0.261591 
+sp2count is 0, and trace is 98327.065964 
+scfiter : 15 , the value of the scfDelta is 0.277876 
+sp2count is 0, and trace is 96964.003153 
+scfiter : 16 , the value of the scfDelta is 0.275166 
+sp2count is 0, and trace is 97431.379171 
+scfiter : 17 , the value of the scfDelta is 0.288468 
+sp2count is 0, and trace is 97842.328675 
+scfiter : 18 , the value of the scfDelta is 0.274347 
+sp2count is 0, and trace is 98328.536868 
+scfiter : 19 , the value of the scfDelta is 0.289940 
+Application 78965016 resources: utime ~4376204s, stime ~17059s, Rss ~40100, inblocks ~1550348, outblocks ~2999741

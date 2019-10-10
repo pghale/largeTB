@@ -1,0 +1,14 @@
+starting to write coordinates
+time arranging Coordinates : 0.0201199
+starting to constructing hamiltonian 72
+time Hamiltonian : 0.010571
+time KPM : 1.17945
+sp2count is 0, and trace is 3080.730918 
+time SP2 : 74.0037
+sp2count is 0, and trace is 3111.883933 
+scfiter : 0 , the value of the scfDelta is 1.427582 
+sp2count is 0, and trace is 3110.615371 
+scfiter : 1 , the value of the scfDelta is 0.226306 
+sp2count is 0, and trace is 3104.499225 
+scfiter : 2 , the value of the scfDelta is 0.062362 
+Application 78099145 resources: utime ~19138s, stime ~195s, Rss ~28432, inblocks ~132420, outblocks ~340345
