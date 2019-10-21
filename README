@@ -1,3 +1,7 @@
+with-petsc2.cpp is the main file. Basically all code is in there. 
+no inputs are necessary at the moment. *.txt files are output from test run 
+
+
 This file is the untouched source code with the following properties
 
 -- no neighbor listing library
